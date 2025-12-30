@@ -25,6 +25,8 @@ https://tangerine-souffle-7eae56.netlify.app/
 - **JavaScript (ES6)** – Interactivity  
 
 ---
+<img width="2874" height="1620" alt="image" src="https://github.com/user-attachments/assets/e55c0ef3-1c3f-4ebc-b759-2cf04bbc9fa2" />
+
 
 
 
